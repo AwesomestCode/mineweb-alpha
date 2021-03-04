@@ -1,6 +1,6 @@
 const mineflayer = require('mineflayer')
 const mineflayerViewer = require('prismarine-viewer').mineflayer
-const minecraftHawkEye = require('minecrafthawkeye')
+const minecraftHawkEye = require('minecraftHawkEye')
 
 // first install the dependency
 // npm i mineflayer prismarine-viewer minecrafthawkeye
