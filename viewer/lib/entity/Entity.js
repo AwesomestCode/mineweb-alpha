@@ -1,4 +1,4 @@
-/* global THREE */
+const THREE = require('three')
 
 const entities = require('./entities.json')
 const { loadTexture } = globalThis.isElectron ? require('../utils.electron.js') : require('../utils')
